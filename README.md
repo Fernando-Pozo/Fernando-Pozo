@@ -24,6 +24,6 @@
 </br>
 <div> 
  
-  ![Snake animation](https://github.com/Fernando-Pozo/svg-cobra/blob/main/github-user-contribution.svg)
+  ![Snake animation](https://github.com/Fernando-Pozo/svg-cobra/blob/main/github-user-contribution%20(1).svg)
 
 </div>
