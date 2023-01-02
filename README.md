@@ -1,7 +1,9 @@
 <div align="center"> <Strong>Fernando Marques</Strong> </div>
 <br>
 <br>
+
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando-Pozo&show_icons=true&theme=dracula)
+
 <br>
 <br>
 
