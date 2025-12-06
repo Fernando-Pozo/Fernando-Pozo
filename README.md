@@ -21,12 +21,8 @@
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Fernando-Java" height="31" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Fernando-Kotlin" height="31" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     <img align="center" alt="Fernando-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-    <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Fernando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Fernando-Angular" height="30" width="40" src="https://raw.githubusercontent.com/angular/angular/master/aio/src/assets/images/logos/angular/angular.svg">
-  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
     
    <img align="right" alt="Coffee" src="https://media.giphy.com/media/lRjieIGumUci8VWksA/giphy.gif">
